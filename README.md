@@ -11,7 +11,7 @@
 - Implemented CRUD operations (Create, Read, Update, Delete) for data persistence.
 
 ### 3. Data Visualization with Charts
-- Worked with charting libraries like Recharts/D3.js to display line and bar charts.
+- Worked with charting libraries like Recharts.js to display line and bar charts.
 - Created multi-axis charts to represent different data metrics dynamically.
 
 ### 4. Optimizing Performance
